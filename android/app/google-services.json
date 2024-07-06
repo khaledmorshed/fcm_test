@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142114978940",
+    "project_id": "push-notification-with-f-8b80a",
+    "storage_bucket": "push-notification-with-f-8b80a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142114978940:android:ec733baa123ef0fc275df9",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_with_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-s-UxLopF1HMn-j4KPWSaM0aJJnYWNs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
